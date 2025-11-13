@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/samueljzd" target="_blank">
+  <a href="https://www.linkedin.com/in/samueljzd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="Samueljzd@samuraizcode.dev" target="_blank">
+  <a href="mailto:Samueljzd@samuraizcode.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -16,22 +16,39 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelP21.SamuelP21&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samueljzd.Samueljzd&"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="center">👋 ¡Hola! Soy <strong>Samuel Zabala</strong></h3>
+<p align="center">
+Desarrollador <strong>backend</strong> apasionado por crear software funcional, mantenible y con foco en la <strong>escalabilidad</strong> y la <strong>calidad del código</strong>.
+</p>
 
 ###
 
-<p align="left">👋 ¡Hola! Soy Samuel Zabala, desarrollador backend apasionado por crear software funcional, mantenible y con foco en la escalabilidad y la calidad del código.<br><br>🔭 Tengo experiencia en proyectos basados en Laravel, integraciones con Moodle y optimización de bases de datos MySQL, aplicando principios de arquitectura limpia y buenas prácticas.<br><br>📚 Actualmente estoy profundizando en Java y patrones de diseño backend avanzados, buscando ampliar mi visión y fortalecer mis fundamentos como desarrollador.<br><br>⚡ Creo firmemente en el aprendizaje continuo, la colaboración y el desarrollo de soluciones que generen un impacto real. En mi tiempo libre disfruto mejorando mis proyectos personales y explorando nuevas tecnologías que potencien la eficiencia del desarrollo.</p>
+<h3 align="left">👨‍💻 Sobre mí</h3>
+
+<p align="left">
+Soy <strong>Samuel Zabala</strong>, desarrollador <strong>backend</strong> apasionado por crear software funcional, mantenible y con foco en la <strong>escalabilidad</strong> y la <strong>calidad del código</strong>.
+</p>
+
+<p align="left">
+🔭 Tengo experiencia en proyectos basados en <strong>Laravel</strong>, integraciones con <strong>Moodle</strong> y optimización de <strong>bases de datos MySQL</strong>, aplicando principios de <strong>arquitectura limpia</strong> y buenas prácticas.
+</p>
+
+<p align="left">
+📚 Actualmente estoy profundizando en <strong>Java</strong> y <strong>patrones de diseño backend avanzados</strong>, buscando ampliar mi visión y fortalecer mis fundamentos como desarrollador.
+</p>
+
+<p align="left">
+⚡ Creo firmemente en el <strong>aprendizaje continuo</strong>, la <strong>colaboración</strong> y el desarrollo de soluciones que generen un impacto real. En mi tiempo libre disfruto mejorando mis proyectos personales y explorando nuevas tecnologías que potencien la eficiencia del desarrollo.
+</p>
 
 ###
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -65,9 +82,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelP21&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SamuelP21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">🚀 Proyectos destacados</h3>
+
+<ul align="left">
+  <li>🧭 <strong>Sistema RRHH</strong> — Aplicación en Laravel con arquitectura limpia, gestión de contratos y roles.</li>
+  <li>🧩 <strong>Plugin Moodle - Block, theme, local, mod</strong>.</li>
+</ul>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelP21&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=SamuelP21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+</div>
